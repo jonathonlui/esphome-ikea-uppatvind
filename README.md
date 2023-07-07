@@ -128,7 +128,7 @@ sensor:
       # and correspond to LED being off, low, med, high intensity.
       # The "pulse_width" sensor sometimes reads non-0 (e.g 221) when
       # the LED is off which is why 0 (off state) is returned in the
-      default case.
+      # default case.
       - multiply: 1000000
       - lambda: !lambda |- 
           switch (int(x)) {
