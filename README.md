@@ -22,9 +22,9 @@ The case is held together with triangle head screws:
 
 ![Triangle Screw Head](images/triangle-screw.jpg)
 
-A T8 Torx bit fits in these screws.
+A T8 Torx bit fits in these screws. A 3 to 3.2mm flat head slot screwdriver also works. 
 
-After removing the 5 triangle screws, the face is still held on by clips along the edge. I jammed a flat head screwdriver into the gaps and broke each of the inside clips along the edges.
+On some revisions, after removing the 5 triangle screws, the face is still held on by clips along the edge. I jammed a flat head screwdriver into the gaps and broke each of the inside clips along the edges.
 
 The board is powered from by 24V DC from the 2-pin connector.
 
